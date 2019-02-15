@@ -1,0 +1,44 @@
+{
+  "basic":{
+    "image":"images/pic1.png",
+    "name":"MEGHANA",
+    "email":"meghanagurani1129@gmail.com",
+    "number":"+91-8000090000",
+    "address":"pragati college,surampalem."
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+"Educational":[
+  {
+    "Institute":"Pragati Engineering college",
+    "Degree":"B.Tech",
+    "passout":"2021"
+  },
+  {
+  "Institute":"Aditya junior college",
+  "Degree":"Intermediate",
+  "passout":"2017"
+},
+{
+  "Institute":"Ushodaya school",
+  "Degree":"ssc",
+  "passout":"2015"
+}
+],
+
+"Technical":[
+{
+  "info":"programming languages",
+  "data":["c,c++,python"]
+},
+{
+  "info":"operating systems",
+  "data":["windows,linux,unix"]
+},
+{
+  "info":"databases",
+  "data":["oracle,mysql,tinydb"]
+}
+]
+}
